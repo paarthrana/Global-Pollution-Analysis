@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Temporary matplotlib cache
+/tmp/matplotlib
+
